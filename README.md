@@ -30,17 +30,20 @@ An Excel-based interactive dashboard project that evaluates supplier efficiency,
 
 DHL, a global logistics leader, depends on supplier reliability to ensure smooth deliveries and customer satisfaction. This Excel dashboard transforms raw supplier data into actionable visuals that improve procurement efficiency and optimize supply chain performance.
 
-## ❓ PROBLEM STATEMENT 
+## ❓PROBLEM STATEMENT 
 its supply chain operations to ensure seamless deliveries and maintain customer satisfaction. The efficiency of its network is closely tied to supplier performance.
 
 To address this, DHL requires a robust Supplier Performance Analysis to:
-- Scrutinize metrics such as product quality, responsiveness, delivery performance, and cost.
-- Identify underperforming suppliers.
-- Improve on-time delivery and reduce inventory costs.
+
+1️⃣ Scrutinize metrics such as product quality, responsiveness, delivery performance, and cost.
+
+2️⃣ Identify underperforming suppliers.
+
+3️⃣ Improve on-time delivery and reduce inventory costs.
 
 
 
-## OBJECTIVE 
+## 🎯OBJECTIVE 
 1️⃣ Conduct a thorough supplier performance analysis
 
 2️⃣ Evaluate and optimize supplier efficiency using data-driven insights.
@@ -57,10 +60,11 @@ Microsoft Excel
   - Slicers & Interactivity
 
 ## DASHBOARD 
-![NEW SUPPLIER DASHBOARD](NEWSUPPLIERDASHBOARD.png)
+![NEW SUPPLIER DASHBOARD](Dashboard_Screenshots/NEW_SUPPLIER_DASHBOARD.png)
 
+![NEW SUPPLIER DASHBOARD](NEW_SUPPLIER_DASHBOARD.png)
 
-![LOGISTICS DASHBOARD](LOGISTICSDASHBOARD.png)
+![LOGISTICS DASHBOARD](LOGISTICS_DASHBOARD.png)
 
 ## INSIGHTS GAINED
 
