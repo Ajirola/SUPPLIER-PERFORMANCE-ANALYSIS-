@@ -97,7 +97,7 @@ Below is a list of key variables included in the Supplier and Logistics dataset:
 
 1️⃣8️⃣ **Costs** : Various costs associated with manufacturing, shipping, and quality control.
 
-## 🧪 Key Areas Analyzed
+## ✅ Key Areas Analyzed
 
 This dashboard explores multiple supplier and logistics KPIs:
 
@@ -174,7 +174,7 @@ Here are the key performance metrics from the supplier and logistics analysis:
 
 ✅**Carrier A has the highest defect rate**, suggesting frequent delays or damaged deliveries, which could negatively impact customer satisfaction and product quality.
 
-## ✅ Recommendations
+## ✍️ Recommendations
 
 1️⃣ Reevaluate **Supplier 2’s processes** to identify and address root causes of product defects.
 
