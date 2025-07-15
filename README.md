@@ -24,7 +24,7 @@ An Excel-based interactive dashboard project that evaluates supplier efficiency,
  
  [Recommendation]()
 
- .[Contant]()
+ [Contant]()
 
  ## 📌 DESCRIPTION 
  
