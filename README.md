@@ -170,7 +170,7 @@ Here are the key performance metrics from the supplier and logistics analysis:
 
 ✅**Route A is the most expensive shipping route**, contributing disproportionately to shipping costs.
 
-✅**Carrier B accounts for 42% of total shipping costs**, making it the highest logistics cost contributor.
+✅**Carrier B accounts for 43% of total shipping costs**, making it the highest logistics cost contributor.
 
 ✅**Carrier A has the highest defect rate**, suggesting frequent delays or damaged deliveries, which could negatively impact customer satisfaction and product quality.
 
