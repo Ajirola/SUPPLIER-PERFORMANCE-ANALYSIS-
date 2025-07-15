@@ -60,11 +60,9 @@ Microsoft Excel
   - Slicers & Interactivity
 
 ## DASHBOARD 
-![NEW SUPPLIER DASHBOARD](Dashboard_Screenshots/NEW_SUPPLIER_DASHBOARD.png)
+![New Supplier Dashboard](Dashboard_Screenshots/NEW%20SUPPLIER%20DASHBOARD.png)
 
-![NEW SUPPLIER DASHBOARD](NEW_SUPPLIER_DASHBOARD.png)
-
-![LOGISTICS DASHBOARD](LOGISTICS_DASHBOARD.png)
+![Logistics Dashboard](Dashboard_Screenshots/logistics_dashboard.png)
 
 ## INSIGHTS GAINED
 
