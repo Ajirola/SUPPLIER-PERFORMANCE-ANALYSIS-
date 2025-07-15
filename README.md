@@ -35,7 +35,8 @@ An Excel-based interactive dashboard project that evaluates supplier efficiency,
 DHL, a global logistics leader, depends on supplier reliability to ensure smooth deliveries and customer satisfaction. This Excel dashboard transforms raw supplier data into actionable visuals that improve procurement efficiency and optimize supply chain performance.
 
 ## ❓PROBLEM STATEMENT 
-its supply chain operations to ensure seamless deliveries and maintain customer satisfaction. The efficiency of its network is closely tied to supplier performance.
+
+DHL faces the challenge of optimizing its supply chain operations to ensure seamless deliveries and maintain customer satisfaction. The efficiency of its network is closely tied to supplier performance.
 
 To address this, DHL requires a robust Supplier Performance Analysis to:
 
