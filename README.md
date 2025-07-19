@@ -160,7 +160,7 @@ Here are the key performance metrics from the supplier and logistics analysis:
 
 ✅ **Supplier 1 consistently outperforms** others in both quantities and order quantities supplied.
 
-✅ **Supplier 2 has a significantly higher defect rate**, indicating possible quality or handling issues that may affect customer satisfaction.
+✅ **Supplier 2 had a significantly higher defect rate**, indicating possible quality or handling issues that may affect customer satisfaction.
 
 ✅ **Supplier 1 and Supplier 5** are the top revenue-generating suppliers.
 
